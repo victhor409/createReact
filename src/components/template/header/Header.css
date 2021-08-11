@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.titulo{
+    font-family: 'Bebas Neue';
+    font-size: 35px;
+}
+
+.subtitulo{
+    font-family: 'Roboto';
+    font-size: large;
+}
+
+
+header.header{
+    background-color: #FFF;
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
